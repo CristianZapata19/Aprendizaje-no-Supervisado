@@ -2,7 +2,7 @@
 
 Este proyecto desarrolla un flujo completo de ciencia de datos enfocado en el Aprendizaje No Supervisado. El objetivo es identificar patrones y agrupar perfiles de estudiantes que aspiran a maestrías utilizando variables académicas y de mérito.
 
-## 🚀 Proceso Realizado
+## Proceso Realizado
 
 - **Preparación de Datos**: Limpieza y estandarización de 400 registros académicos.
 
@@ -14,7 +14,7 @@ Este proyecto desarrolla un flujo completo de ciencia de datos enfocado en el Ap
   - Método del Codo (Inercia)
   - Silhouette Score
 
-## 📊 Principales Hallazgos
+## Principales Hallazgos
 
 - **Configuración Óptima**: El valor de K=2 resultó ser el más adecuado para segmentar la población, dividiendo a los aspirantes en perfiles de "Alto Rendimiento" y "Rendimiento Estándar".
 
